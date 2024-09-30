@@ -1,5 +1,4 @@
-//import {}
-
+import express from 'express'  //Utiliza Emascrip
 //const express = require('express'); //Versión antigua
 
 //crear la app
